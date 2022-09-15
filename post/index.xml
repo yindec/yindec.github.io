@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>httos://yindec.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Sep 2022 09:45:56 +0800</lastBuildDate><atom:link href="httos://yindec.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哇</title>
+      <link>httos://yindec.github.io/post/blog/</link>
+      <pubDate>Thu, 15 Sep 2022 09:45:56 +0800</pubDate>
+      
+      <guid>httos://yindec.github.io/post/blog/</guid>
+      <description>所有的配置文件都保存在本地
+查看不同级别的配置文件
+#查看系统config git config --system --list #查看当前用户(global)配置 git config --global --list Git相关配置文件
+1）、 Git\etc\gitconfig ：Git安装目录下的gitconfig &amp;ndash;system 系统级
+2）、C:\User\Administrator.gitconfig 只适用于当前登录用户的配置 &amp;ndash;global 全局
+这里可以直接编辑配置文件，通过名利设置后会响应到这里。
+hugo相关命令：
+hugo server -t m10c &amp;ndash;buildDrafts
+hugo new site myblog
+hugo new post/blog.md
+hugo &amp;ndash;theme=m10c &amp;ndash;baseUrl=&amp;ldquo;https://yindec.github.io/&amp;quot; &amp;ndash;buildDrafts
+git commit -m &amp;ldquo;我的hugo博客第一次提交&amp;rdquo;
+git remote add origin https://github.com/yindec/yindec.github.io.git</description>
+    </item>
+    
+  </channel>
+</rss>
