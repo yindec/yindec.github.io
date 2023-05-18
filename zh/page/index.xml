@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on yindec blog</title>
+    <link>https://yindec.github.io/zh/page/</link>
+    <description>Recent content in Pages on yindec blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 23:44:50 +0800</lastBuildDate><atom:link href="https://yindec.github.io/zh/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yindec.github.io/zh/page/about/</link>
+      <pubDate>Thu, 18 May 2023 23:44:50 +0800</pubDate>
+      
+      <guid>https://yindec.github.io/zh/page/about/</guid>
+      <description>og hi!</description>
+    </item>
+    
+  </channel>
+</rss>
