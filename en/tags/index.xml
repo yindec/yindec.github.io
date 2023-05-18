@@ -5,6 +5,43 @@
     <link>https://yindec.github.io/en/tags/</link>
     <description>Recent content in Tags on yindec blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://yindec.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 23:44:50 +0800</lastBuildDate><atom:link href="https://yindec.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://yindec.github.io/en/tags/about/</link>
+      <pubDate>Thu, 18 May 2023 23:44:50 +0800</pubDate>
+      
+      <guid>https://yindec.github.io/en/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://yindec.github.io/en/tags/me/</link>
+      <pubDate>Thu, 18 May 2023 23:44:50 +0800</pubDate>
+      
+      <guid>https://yindec.github.io/en/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://yindec.github.io/en/tags/blog/</link>
+      <pubDate>Thu, 18 May 2023 23:43:57 +0800</pubDate>
+      
+      <guid>https://yindec.github.io/en/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>https://yindec.github.io/en/tags/hello/</link>
+      <pubDate>Thu, 18 May 2023 23:43:57 +0800</pubDate>
+      
+      <guid>https://yindec.github.io/en/tags/hello/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,19 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yindec.github.io/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://yindec.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yindec.github.io/en/categories/"
-                />
+    <loc>https://yindec.github.io/en/tags/about/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/en/page/about/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/en/tags/me/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/en/page/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
   </url><url>
     <loc>https://yindec.github.io/en/tags/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -27,6 +28,7 @@
                 />
   </url><url>
     <loc>https://yindec.github.io/en/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -36,6 +38,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://yindec.github.io/en/"
+                />
+  </url><url>
+    <loc>https://yindec.github.io/en/tags/blog/</loc>
+    <lastmod>2023-05-18T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/en/bolg/</loc>
+    <lastmod>2023-05-18T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/en/tags/hello/</loc>
+    <lastmod>2023-05-18T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/en/bolg/hello_world/</loc>
+    <lastmod>2023-05-18T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://yindec.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yindec.github.io/en/categories/"
                 />
   </url>
 </urlset>
