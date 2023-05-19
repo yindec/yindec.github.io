@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://yindec.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://yindec.github.io/zh/sitemap.xml</loc>
-    
-      <lastmod>2023-05-18T23:44:50+08:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yindec.github.io/tags/blog/</loc>
+    <lastmod>2023-05-19T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/blog/</loc>
+    <lastmod>2023-05-19T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/tags/git/</loc>
+    <lastmod>2023-05-19T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/blog/git-command/</loc>
+    <lastmod>2023-05-19T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/tags/</loc>
+    <lastmod>2023-05-19T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/</loc>
+    <lastmod>2023-05-19T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/tags/about/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/page/about/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/tags/me/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/page/</loc>
+    <lastmod>2023-05-18T23:44:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/blog/ceshi/</loc>
+    <lastmod>2023-05-18T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/tags/hello/</loc>
+    <lastmod>2023-05-18T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/blog/hello_world/</loc>
+    <lastmod>2023-05-18T23:43:57+08:00</lastmod>
+  </url><url>
+    <loc>https://yindec.github.io/categories/</loc>
+  </url>
+</urlset>

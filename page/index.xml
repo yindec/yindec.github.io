@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on yindec blog</title>
+    <link>https://yindec.github.io/page/</link>
+    <description>Recent content in Pages on yindec blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 May 2023 23:44:50 +0800</lastBuildDate><atom:link href="https://yindec.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://yindec.github.io/page/about/</link>
+      <pubDate>Thu, 18 May 2023 23:44:50 +0800</pubDate>
+      
+      <guid>https://yindec.github.io/page/about/</guid>
+      <description>og hi! { &amp;ldquo;name&amp;rdquo;: &amp;ldquo;blist&amp;rdquo;, &amp;ldquo;version&amp;rdquo;: &amp;ldquo;2.1.0&amp;rdquo;, &amp;ldquo;lockfileVersion&amp;rdquo;: 2, &amp;ldquo;requires&amp;rdquo;: true, &amp;ldquo;packages&amp;rdquo;: { &amp;ldquo;&amp;rdquo;: { &amp;ldquo;name&amp;rdquo;: &amp;ldquo;blist&amp;rdquo;, &amp;ldquo;version&amp;rdquo;: &amp;ldquo;2.1.0&amp;rdquo;, &amp;ldquo;license&amp;rdquo;: &amp;ldquo;MIT&amp;rdquo;, &amp;ldquo;devDependencies&amp;rdquo;: { &amp;ldquo;@tailwindcss/typography&amp;rdquo;: &amp;ldquo;^0.4.0&amp;rdquo;, &amp;ldquo;autoprefixer&amp;rdquo;: &amp;ldquo;^10.2.5&amp;rdquo;, &amp;ldquo;postcss&amp;rdquo;: &amp;ldquo;^8.2.10&amp;rdquo;, &amp;ldquo;postcss-cli&amp;rdquo;: &amp;ldquo;^8.3.1&amp;rdquo;, &amp;ldquo;postcss-import&amp;rdquo;: &amp;ldquo;^14.0.1&amp;rdquo;, &amp;ldquo;tailwindcss&amp;rdquo;: &amp;ldquo;^2.2.19&amp;rdquo; } }, &amp;ldquo;node_modules/@babel/code-frame&amp;rdquo;: { &amp;ldquo;version&amp;rdquo;: &amp;ldquo;7.15.8&amp;rdquo;, &amp;ldquo;resolved&amp;rdquo;: &amp;ldquo;https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.15.8.tgz&amp;#34;, &amp;ldquo;integrity&amp;rdquo;: &amp;ldquo;sha512-2IAnmn8zbvC/jKYhq5Ki9I+DwjlrtMPUCH/CpHvqI4dNnlwHwsxoIhlc8WcYY5LSYknXQtAlFYuHfqAFCvQ4Wg==&amp;rdquo;, &amp;ldquo;dev&amp;rdquo;: true, &amp;ldquo;dependencies&amp;rdquo;: { &amp;ldquo;@babel/highlight&amp;rdquo;: &amp;ldquo;^7.14.5&amp;rdquo; }, &amp;ldquo;engines&amp;rdquo;: { &amp;ldquo;node&amp;rdquo;: &amp;ldquo;&amp;gt;=6.9.0&amp;rdquo; } }, &amp;ldquo;node_modules/@babel/helper-validator-identifier&amp;rdquo;: { &amp;ldquo;version&amp;rdquo;: &amp;ldquo;7.15.7&amp;rdquo;, &amp;ldquo;resolved&amp;rdquo;: &amp;ldquo;https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.15.7.tgz&amp;#34;, &amp;ldquo;integrity&amp;rdquo;: &amp;ldquo;sha512-K4JvCtQqad9OY2+yTU8w+E82ywk/fe+ELNlt1G8z3bVGlZfn/hOcQQsUhGhW/N+tb3fxK800wLtKOE/aM0m72w==&amp;rdquo;, &amp;ldquo;dev&amp;rdquo;: true, &amp;ldquo;engines&amp;rdquo;: { &amp;ldquo;node&amp;rdquo;: &amp;ldquo;&amp;gt;=6.</description>
+    </item>
+    
+  </channel>
+</rss>
