@@ -33,21 +33,21 @@ ssh秘钥 ssh-keygen
     </item>
     
     <item>
-      <title>ceshi</title>
-      <link>https://yindec.github.io/blog/ceshi/</link>
-      <pubDate>Thu, 18 May 2023 23:43:57 +0800</pubDate>
-      
-      <guid>https://yindec.github.io/blog/ceshi/</guid>
-      <description>测试 </description>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>https://yindec.github.io/blog/hello_world/</link>
       <pubDate>Thu, 18 May 2023 23:43:57 +0800</pubDate>
       
       <guid>https://yindec.github.io/blog/hello_world/</guid>
       <description>Hello World </description>
+    </item>
+    
+    <item>
+      <title>板绘</title>
+      <link>https://yindec.github.io/blog/%E6%9D%BF%E7%BB%98/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yindec.github.io/blog/%E6%9D%BF%E7%BB%98/</guid>
+      <description> </description>
     </item>
     
   </channel>
