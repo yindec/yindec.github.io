@@ -6,7 +6,16 @@
     <description>Recent content on yindec blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yindec.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yindec.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>solution of cs61a-ants</title>
+      <link>https://yindec.github.io/blog/cs61a_ant/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yindec.github.io/blog/cs61a_ant/</guid>
+      <description>&amp;#34;&amp;#34;&amp;#34;CS 61A presents Ants Vs. SomeBees.&amp;#34;&amp;#34;&amp;#34;import randomfrom ucb import main, interact, tracefrom collections import OrderedDict################# Core Classes #################class Place:&amp;#34;&amp;#34;&amp;#34;A Place holds insects and has an exit to another Place.&amp;#34;&amp;#34;&amp;#34;is_hive = Falsedef __init__(self, name, exit=None):&amp;#34;&amp;#34;&amp;#34;Create a Place with the given NAME and EXIT.name -- A string; the name of this Place.exit -- The Place reached by exiting this Place (may be None).</description>
+    </item>
+    
     <item>
       <title>道标</title>
       <link>https://yindec.github.io/blog/%E9%81%93%E6%A0%87/</link>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs61a on yindec blog</title>
+    <link>https://yindec.github.io/tags/cs61a/</link>
+    <description>Recent content in cs61a on yindec blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yindec.github.io/tags/cs61a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>solution of cs61a-ants</title>
+      <link>https://yindec.github.io/blog/cs61a_ant/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yindec.github.io/blog/cs61a_ant/</guid>
+      <description>&amp;#34;&amp;#34;&amp;#34;CS 61A presents Ants Vs. SomeBees.&amp;#34;&amp;#34;&amp;#34;import randomfrom ucb import main, interact, tracefrom collections import OrderedDict################# Core Classes #################class Place:&amp;#34;&amp;#34;&amp;#34;A Place holds insects and has an exit to another Place.&amp;#34;&amp;#34;&amp;#34;is_hive = Falsedef __init__(self, name, exit=None):&amp;#34;&amp;#34;&amp;#34;Create a Place with the given NAME and EXIT.name -- A string; the name of this Place.exit -- The Place reached by exiting this Place (may be None).</description>
+    </item>
+    
+  </channel>
+</rss>
